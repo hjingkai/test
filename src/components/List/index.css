@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*main*/
 .todo-main {
     margin-left: 0px;
@@ -13,4 +14,21 @@
     border-radius: 2px;
     padding-left: 5px;
     margin-top: 10px;
+=======
+/*main*/
+.todo-main {
+    margin-left: 0px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding: 0px;
+  }
+  
+  .todo-empty {
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    padding-left: 5px;
+    margin-top: 10px;
+>>>>>>> 880ec5654ff783a2c900d41823380450b40ff914
   }
